@@ -12,6 +12,7 @@ body {
   box-sizing: border-box;
   background-color: #000000;
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 
 .titulo-destaque {
@@ -19,30 +20,30 @@ body {
 }
 
 .logo {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-  
+
 .imagem__logo {
-    border-radius: 40px;
+  border-radius: 40px;
 }
-  
+
 .logo__logos__links {
-    display: flex;
-    justify-content: flex-end;
+  display: flex;
+  justify-content: flex-end;
 }
-  
+
 .logo__logos__links__link {
-    background-color: #ffffff;
-    width: 180px;
-    text-align: center;
-    border-radius: 16px;
-    font-size: 24px;
-    padding: 21.5px 0;
-    text-decoration: none;
-    color: #000000;
-    margin-right: 20px;
+  background-color: #ffffff;
+  width: 180px;
+  text-align: center;
+  border-radius: 16px;
+  font-size: 24px;
+  padding: 21.5px 0;
+  text-decoration: none;
+  color: #000000;
+  margin-right: 20px;
 }
 
 .apresentacao {
@@ -135,6 +136,7 @@ body {
 }
 
 .servicos__1__texto {
+  font-weight: 500;
   font-size: 20pt;
 }
 
@@ -149,7 +151,16 @@ body {
   color: #000000;
 }
 
+.servicos__1__valores {
+  display: flex;
+  flex-direction: column;
+}
+
+.servicos__1__valores span {
+  margin-bottom: 1rem;
+}
+
 .servicos__descricao {
-    text-align: left;
-    margin-left: 3%;
-  }
+  text-align: left;
+  margin-left: 3%;
+}
