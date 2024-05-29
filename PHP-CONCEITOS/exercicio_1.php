@@ -1,8 +1,5 @@
 <?php
 
-$numero1 = ;
-$numero2 = ;
-
 //Solicita os números
 
 $numero1 = $argv[1];
