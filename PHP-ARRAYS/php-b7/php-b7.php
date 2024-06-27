@@ -1,6 +1,6 @@
 <?php
 
-// IAN
+// REVISAR
 
 $notasAlunos = [
   [8.5, 6.0, 7.8, 9.2, 5.5],  // Aluno 1

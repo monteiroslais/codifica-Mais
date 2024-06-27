@@ -18,15 +18,7 @@ for ($i = 0; $i < 7; $i++){
 
 
 
-
-
-
-
-
-
-
-
-//RESPOSTA DO CHATGPT
+//FINALIZAR
 
 <?php
 function lerArray() {
