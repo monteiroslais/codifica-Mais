@@ -13,16 +13,19 @@ qtd_estoque;
 fabricante;
 fornecedor)
 values (
-'Sandália',
-'01',
-'Sandália em couro de bezerro Epsom com icônica tira "H".
-Em sintonia com o inconfundível estilo Hermès, essa sandália é aquela peça que não pode faltar no armário.
-Feito na Itália',
+'Black Suede Slingback Pumps - Manolo Blahnik',
+'224',
+'Black suede pointed toe slingback pumps featuring black nappa leather scalloped design and stiletto low heel.
+Upper: 90% kid suede, 10% lamb nappa.
+Sole: 100% calf leather.
+Lining: 100% kid leather.
+Heel measures 50 mm.
+Italian sizing.',
 'SANDÁLIAS',
-'5.350,00',
+'4.950,00',
 'gramas',
-'300',
+'600',
 '20',
-'HERMÈS',
-'HERMÈS',
+'MANOLO BLAHNIK',
+'MANOLO BLAHNIK',
 )
