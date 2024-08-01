@@ -1,7 +1,5 @@
 <?php
 
-// REVISAR
-
 $notasAlunos = [
   [8.5, 6.0, 7.8, 9.2, 5.5],  // Aluno 1
   [7.0, 8.0, 6.5, 7.5, 8.5],  // Aluno 2
@@ -33,20 +31,3 @@ foreach ($medias as $aluno => $media) {
     echo "Média: {$media}\n\n";
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

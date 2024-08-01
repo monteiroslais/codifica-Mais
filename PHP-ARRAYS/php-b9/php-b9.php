@@ -1,9 +1,5 @@
 <?php
 
-
-
-//REVISAR
-
 $valorCompra = (int) readline ("Insira o valor da compra (R$): ");
 
 function aplicarDesconto ($valorCompra, $percentualDesconto) {

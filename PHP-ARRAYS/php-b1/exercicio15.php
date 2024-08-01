@@ -1,26 +1,4 @@
 <?php
-
-//receber o array de 7 elementos
-
-$numeros = [];
-    echo "Digite 7 números" . PHP_EOL;
-for ($i = 0; $i < 7; $i++){
-    
-}
-
-
-
-
-
-
-
-
-
-
-
-//FINALIZAR
-
-<?php
 function lerArray() {
     $array = [];
     echo "Digite 7 elementos para o array:\n";
