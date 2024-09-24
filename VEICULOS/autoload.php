@@ -9,9 +9,9 @@ function autoloadClass($class) {
 
 spl_autoload_register('autoloadClass');
 
-use Lais\Classes\Moto;
-use Lais\Classes\Carro;
-use Lais\Classes\Caminhao;
+use Veiculos\Classes\Moto;
+use Veiculos\Classes\Carro;
+use Veiculos\Classes\Caminhao;
 
 $moto = new Moto();
 $moto->acelerar();

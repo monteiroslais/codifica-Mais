@@ -2,7 +2,7 @@
 
 namespace Veiculos\Classes;
 
-use Veiculos\Interfaces\VeiculoInterface;
+use Veiculos\Interface\VeiculoInterface;
 
 abstract class Veiculo implements VeiculoInterface {
 
